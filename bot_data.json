@@ -1,0 +1,178 @@
+{
+    "approved": [
+        6908091275,
+        8235793202
+    ],
+    "blocked": [],
+    "stats": {
+        "checked": 236,
+        "hits": 40,
+        "misses": 196,
+        "fresh": 33,
+        "used": 198,
+        "banned": 2
+    },
+    "last_cleanup": {
+        "6908091275": [],
+        "8235793202": [],
+        "7816549905": [],
+        "7066485347": [
+            2911,
+            2913
+        ],
+        "576819773": [
+            797
+        ]
+    },
+    "users": {
+        "6908091275": {
+            "state": "MAIN_MENU",
+            "api_key": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MDk5ODYzNDEsImlhdCI6MTc3ODQ1MDM0MSwicmF5IjoiZjMzNDhhOTNmMWRmYzBkOTllMTExOWFhODdlNGQ0YjkiLCJzdWIiOjI4MTQ0NTZ9.JUUlruQ9PBqMD1UK4uyn1t1d1ZOCimrYroWd8MmJSN_QoymdDJHm88Ori-U-o6HZolfKuk8QqVZOLFGWaU2zNfZn080JoOJy4BLWKMT7sUM3xPYIStQbrUaZbs3y1W1mnAL1EjvfWCRzCpnKuUbJeOVmurl17m2z5WUKMvMGG5eLRUr49ySF_6BmBh-dPmizr8pMoK0sQFGbDwfhdV6ZNpGhNWLV1VP7RnMK0fPX89cO7RXMb1c1a01_BGxSF56wzUcw5J4b08HAEb0T6AMJ3Ir6RU1MKanIDiSOQaRnaMP4m8Ud4vJE9JE8BDyNxcUjSZ1v5qkJM__gABsdL_dOTw",
+            "logged_in": true,
+            "favorites": [
+                "imo",
+                "microsoft"
+            ],
+            "fav_countries": [
+                "hongkong"
+            ],
+            "operator_defaults": {
+                "hongkong": "virtual54"
+            },
+            "temp_data": {
+                "last_msg_id": 2910,
+                "country": "hongkong",
+                "service": "microsoft",
+                "prefix_op": "virtual54",
+                "prompt_msg_id": 2843
+            },
+            "stop_search": false,
+            "prefixes": {
+                "hongkong": [
+                    "85246"
+                ]
+            },
+            "stopped_searches": [],
+            "cancelled_orders": [],
+            "active_threads": {},
+            "purchase_context": {
+                "2840": {
+                    "service": "imo",
+                    "country": "hongkong"
+                },
+                "2910": {
+                    "service": "microsoft",
+                    "country": "hongkong"
+                }
+            },
+            "number_type": "fresh"
+        },
+        "5016125414": {
+            "state": "MAIN_MENU",
+            "api_key": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MDk5ODI2NzQsImlhdCI6MTc3ODQ0NjY3NCwicmF5IjoiNWQwNzMzOTIyZTc1N2Q3OWYyZmJhYTJmZDM1ZjA4MmUiLCJzdWIiOjQwNTk1MzF9.0MA8xHqU1QJkvdNi96sL-PkuQLk83i6JwA-gAVYS_1bycIuH--uE8Eo-QJsI9RJMuw342vujWRFN7qxRENmgGK6DwL-s9yYSmEFEH4kuFTB4l_WI8a9tDRHZJx_UHiW9QHneeIl0dVK_BOLa9Keqd05akr-5AMC7DAIz5fE8RhDPpTRyBsPkhiASrRyEZE6s5TVEfJdF0rSuldIN2ZfUwlQaJQFdKhV3GIY5kyT5G067Hed_Lz2317-nmLwc9CoIiiJNaPsM6_EFxSRw2FCV2pAzMQM0F3nLPlbjuwUVSVUHj9eO5ioA0dhRQg_VO5dDOYQdQwvKKLNFT2w5wgjz3Q",
+            "logged_in": true,
+            "favorites": [
+                "facebook",
+                "microsoft",
+                "imo"
+            ],
+            "fav_countries": [
+                "hongkong"
+            ],
+            "operator_defaults": {},
+            "temp_data": {
+                "last_msg_id": 2867,
+                "country": "hongkong",
+                "service": "microsoft"
+            },
+            "stop_search": false,
+            "prefixes": {},
+            "stopped_searches": [],
+            "cancelled_orders": [],
+            "active_threads": {},
+            "purchase_context": {
+                "2867": {
+                    "service": "microsoft",
+                    "country": "hongkong"
+                }
+            },
+            "number_type": "fresh"
+        },
+        "7066485347": {
+            "state": "MAIN_MENU",
+            "api_key": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MTAyMDUyNjQsImlhdCI6MTc3ODY2OTI2NCwicmF5IjoiODcxMjFlNzBiMzFkNTZmZDI0MzhkYzM0OWE1Zjk4ZjAiLCJzdWIiOjM4ODg0NTV9.HRx6r4TiI87s-ZB2FdHvTugv4Y9rU0XR_79vjuwgrW5UTOvNzUslxAvwvHdKSLVVIrC1EDYBa7EhTPcpqWqfdC1gfO5rAB_1W1HgntlHo_nwM6VaXROXFSKGkPQreb-28tFma5z0BCE3ZTDTAFVdmDMtqG6mGMztwDpabshm1VPEEa0LUZIv8arHy5P-Xg63WW6INSXpopmHWpoKLIccjjhc13rlkWH2BLe0Xf7REgYRO46R2XfGMNc1zM-LVmTrDq6TDW_D5jUHoFQ6plUkDrsc15MQNwnURHHf1-rXLj_O4KIYB4DKTZjS0V0qu2SNOEWGHAJGjamhhpgvaSrCag",
+            "logged_in": true,
+            "favorites": [
+                "imo"
+            ],
+            "fav_countries": [
+                "hongkong"
+            ],
+            "operator_defaults": {
+                "hongkong": "virtual54"
+            },
+            "temp_data": {
+                "last_msg_id": 2898,
+                "country": "hongkong",
+                "service": "imo",
+                "prefix_op": "virtual54",
+                "prompt_msg_id": 2913
+            },
+            "stop_search": false,
+            "prefixes": {
+                "hongkong": [
+                    "85257",
+                    "8526"
+                ]
+            },
+            "stopped_searches": [],
+            "cancelled_orders": [],
+            "active_threads": {},
+            "purchase_context": {
+                "2884": {
+                    "service": "imo",
+                    "country": "hongkong"
+                },
+                "2898": {
+                    "service": "imo",
+                    "country": "hongkong"
+                }
+            },
+            "number_type": "fresh"
+        },
+        "5550493320": {
+            "state": "MAIN_MENU",
+            "api_key": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE4MDgyODEzNzcsImlhdCI6MTc3Njc0NTM3NywicmF5IjoiZDgyNjdiNjRkMWQxNWFjN2Q3ODlkMTAzNTJjMGFkMTIiLCJzdWIiOjM5OTE3MDJ9.Qup8rdLc07TZVF3FtEdv9excNx9Rh_4Y0goVYdeBv1nohwHZ91c9-0xme3bgH2-fqjn2tkfeGBNY68Kp3ZAqKv_2sb1djlM9vmiEJAB7cM2vX7XBaeYBt7t5H3JzTHp9Sx7yhvpvm-JkUbEnG5i1FUxhL_2M5R-a2ran4KEd3fwG4uQBgyErwH14K1CjfoucYaxXQJMG3hHlJqYyz7mQURwZbH9cBWhkJEDACFas6q-uDN8918SMKuJrmwprgq__3aShGr9mD2G9gitpaJEXI9TJjeKBDeOgDh--QYaqRoR6QAhfo03g5hxPGbP842VUTx_5gJkZ0_HZjuwRT8k9vw",
+            "logged_in": true,
+            "favorites": [
+                "microsoft",
+                "imo",
+                "grindr",
+                "tiktok"
+            ],
+            "fav_countries": [
+                "hongkong"
+            ],
+            "operator_defaults": {},
+            "temp_data": {
+                "phone": "+972 59 923 8380",
+                "phone_code_hash": "b67df15577ebc58d8e",
+                "last_msg_id": 2900,
+                "country": "italy",
+                "service": "tiktok"
+            },
+            "stop_search": false,
+            "prefixes": {},
+            "stopped_searches": [],
+            "cancelled_orders": [],
+            "active_threads": {},
+            "purchase_context": {
+                "2900": {
+                    "service": "microsoft",
+                    "country": "hongkong"
+                }
+            },
+            "number_type": "fresh"
+        }
+    }
+}
